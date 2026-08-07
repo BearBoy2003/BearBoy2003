@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mario.gif" width="340" alt="Mario animation" />
+  <img src="./assets/mario.gif" width="425" alt="Mario animation" />
 </p>
 
 <p align="center">
@@ -29,10 +29,10 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img height="165" src="./assets/github-stats.svg" alt="GitHub stats" />
-  <img height="165" src="./assets/top-langs.svg" alt="Top languages" />
+  <img height="140" src="./assets/github-stats.svg" alt="GitHub stats" />
+  <img height="140" src="./assets/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="./assets/streak.svg" alt="GitHub streak" />
+  <img width="420" src="./assets/streak.svg" alt="GitHub streak" />
 </p>
