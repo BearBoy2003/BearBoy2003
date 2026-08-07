@@ -1,19 +1,19 @@
 <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
                 style='isolation: isolate' viewBox='0 0 495 195' width='495px' height='195px' direction='ltr'>
-
+        
         <defs>
             <clipPath id='outer_rectangle'>
-                <rect width='495' height='195' rx='10'/>
+                <rect width='495' height='195' rx='4.5'/>
             </clipPath>
             <mask id='mask_out_ring_behind_fire'>
                 <rect width='495' height='195' fill='white'/>
                 <ellipse id='mask-ellipse' cx='247.5' cy='32' rx='13' ry='18' fill='black'/>
             </mask>
-
+            
         </defs>
         <g clip-path='url(#outer_rectangle)'>
             <g style='isolation: isolate'>
-                <rect stroke='#ffffff' fill='#333333' rx='10' x='0.5' y='0.5' width='494' height='194'/>
+                <rect stroke='#000000' stroke-opacity='0' fill='#333333' rx='4.5' x='0.5' y='0.5' width='494' height='194'/>
             </g>
             <g style='isolation: isolate'>
                 <line x1='165' y1='28' x2='165' y2='170' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#5fa0fe' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
@@ -23,13 +23,13 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ffffff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 1; opacity: 1;'>
-                        77
+                        78
                     </text>
                 </g>
 
                 <!-- Total Contributions label -->
                 <g transform='translate(82.5, 84)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ffffff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 1; opacity: 1;'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#5fa0fe' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 1; opacity: 1;'>
                         Total Contributions
                     </text>
                 </g>
@@ -84,7 +84,7 @@
 
                 <!-- Longest Streak label -->
                 <g transform='translate(412.5, 84)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ffffff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 1; opacity: 1;'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#5fa0fe' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 1; opacity: 1;'>
                         Longest Streak
                     </text>
                 </g>
@@ -96,6 +96,6 @@
                     </text>
                 </g>
             </g>
-
+            
         </g>
     </svg>
